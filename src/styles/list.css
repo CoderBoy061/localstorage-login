@@ -1,0 +1,28 @@
+.data_details {
+  font-family: "Poppins", sans-serif;
+}
+.user_data {
+  font-size: 18px;
+  color: black;
+  font-weight: bold;
+}
+.user {
+  /* background-color: red; */
+  border-radius: 1em;
+  height: 50vh;
+  margin-left: 5vw;
+ 
+}
+.user_list {
+  display: flex;
+  align-items: center;
+  box-shadow: 5px 5px 5px 5px rgba(174, 145, 243, 0.5);
+  padding: 2em 10em;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-top: 10vh;
+}
+.user_list > img {
+  height: 440px;
+  width: 500px;
+}
